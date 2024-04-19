@@ -1,6 +1,3 @@
-import numpy as np
-
-
 def main():
     file_path = input('Введите путь к файлу: ')
 
